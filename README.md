@@ -11,6 +11,3 @@ Combine TDOA/AOA/RSS into a one-step sensor fusion by combining in triality in s
 pip install -r requirements.txt  # numpy, scipy
 python src/trisym_fusion.py
 
-## Contributors
-HumanPrimeGenerator
-Grok
